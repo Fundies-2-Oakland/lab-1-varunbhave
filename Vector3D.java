@@ -2,7 +2,7 @@ public class Vector3D {
     private final double x;
     private final double y;
     private final double z;
-    
+
     public static void main(String[] args) {
         var vector = new Vector3D(5.0, 2.5, -3.2);
         System.out.println(vector);
